@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextConverter/static/css/main.781e1059.css",
-    "main.js": "/TextConverter/static/js/main.72957e0f.js",
-    "static/js/453.ed3810f9.chunk.js": "/TextConverter/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/TextConverter/index.html",
-    "main.781e1059.css.map": "/TextConverter/static/css/main.781e1059.css.map",
-    "main.72957e0f.js.map": "/TextConverter/static/js/main.72957e0f.js.map",
-    "453.ed3810f9.chunk.js.map": "/TextConverter/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/my-app/static/css/main.781e1059.css",
+    "main.js": "/my-app/static/js/main.58b2cab4.js",
+    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/my-app/index.html",
+    "main.781e1059.css.map": "/my-app/static/css/main.781e1059.css.map",
+    "main.58b2cab4.js.map": "/my-app/static/js/main.58b2cab4.js.map",
+    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.781e1059.css",
-    "static/js/main.72957e0f.js"
+    "static/js/main.58b2cab4.js"
   ]
 }
